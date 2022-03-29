@@ -1,4 +1,4 @@
-### Olá, Eu sou a Emanuelle Cavalcante!<img align="center" alt="Emanuelle30-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+### <img align="center" alt="Emanuelle30-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> Olá, Eu sou a Emanuelle Cavalcante!
           
 
 - 🔭 Estudante de Programação na Generation Brasil
@@ -6,13 +6,10 @@
 - 📫 Vocês podem me contactar pelo e-mail: emanuelle.cavalcante4@gmail.com
 - 😄 Pronouns: Ela/Dela
 
-
 <div align="center">
- <a href="https://github.com/Emanuelle30">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Emanuelle30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-           
- <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelle30&layout=compact&langs_count=7&theme=tokyonight"/>
-           
+<a href="https://github.com/Emanuelle30">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Emanuelle30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelle30&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
