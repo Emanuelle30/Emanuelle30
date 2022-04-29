@@ -2,12 +2,12 @@
           
 
 - 🔭 Estudante de Programação na Generation Brasil
-- 🌱 Estou estudando atualmente linguagem Java
-- 😄 Pronouns: Ela/Dela
+- 🌱 Acompanhem minha evolução!
+- 😄 Pronouns: Ela/Dela/She/Her
 
 <div align="center">
 <a href="https://github.com/Emanuelle30">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Emanuelle30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=Emanuelle30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelle30&layout=compact&langs_count=7&theme=tokyonight"/>
           
 </div>
