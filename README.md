@@ -1,7 +1,7 @@
 ### <img align="center" alt="Emanuelle30-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> Olá, Eu sou a Emanuelle Cavalcante!
           
 
-- 🔭 Estudante de Programação na Generation Brasil
+- 🔭 Dev. Full Stack Jr
 - 🌱 Acompanhem minha evolução!
 - 😄 Pronouns: Ela/Dela/She/Her
 
